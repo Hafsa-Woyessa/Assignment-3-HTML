@@ -22,12 +22,6 @@ body {
   float: right;
 }
 
-.clearfix::after
-  content: "";
-  clear: both;
-  display: table;
-}
-
 .p {
   font-size: 175%;
   font-family: "Times New Roman", Times, serif;
